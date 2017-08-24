@@ -1,0 +1,65 @@
+﻿$axure.loadCurrentPage({
+  "url":"题目-数目.html",
+  "generationDate":new Date(1503559313598.19),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"77ec0332b42c4ab685eded0b31670196",
+    "type":"Axure:Page",
+    "name":"题目-数目",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"7a05a247d6bb4191bd16f502c1cfea0b",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":750,
+              "height":1334}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"2d6afbdd65254243ad9dad9047b8fae6",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":750,
+                  "height":1334}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/题目-数目/u0.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "7a05a247d6bb4191bd16f502c1cfea0b":{
+      "scriptId":"u0"},
+    "2d6afbdd65254243ad9dad9047b8fae6":{
+      "scriptId":"u1"}}});

@@ -1,0 +1,133 @@
+﻿$axure.loadCurrentPage({
+  "url":"模拟考试.html",
+  "generationDate":new Date(1503559313561.19),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"49ccb59834b04d489c5a78836d479eb5",
+    "type":"Axure:Page",
+    "name":"模拟考试",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"a6f6054eca2940bfbb445178ff75b474",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":750,
+              "height":1334}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"0d1ad08698744b408ed507bee0edc9fa",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":750,
+                  "height":1334}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/模拟考试/u0.jpg"}},
+{
+          "id":"a5b8ed3b2c0c4e169a0cfea094b2e824",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":133,
+              "y":325},
+            "size":{
+              "width":750,
+              "height":1334}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"93eb36f205db45d08aa88a35ffa0624c",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":133,
+                  "y":325},
+                "size":{
+                  "width":750,
+                  "height":1334}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/模拟考试/u2.jpg"}},
+{
+          "id":"606f729c662c431e819e28356d8efd7f",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":750,
+              "height":1334}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"a659c26f168a4dc78c3fb7d96973e50f",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":750,
+                  "height":1334}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/模拟考试/u4.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "a6f6054eca2940bfbb445178ff75b474":{
+      "scriptId":"u0"},
+    "0d1ad08698744b408ed507bee0edc9fa":{
+      "scriptId":"u1"},
+    "a5b8ed3b2c0c4e169a0cfea094b2e824":{
+      "scriptId":"u2"},
+    "93eb36f205db45d08aa88a35ffa0624c":{
+      "scriptId":"u3"},
+    "606f729c662c431e819e28356d8efd7f":{
+      "scriptId":"u4"},
+    "a659c26f168a4dc78c3fb7d96973e50f":{
+      "scriptId":"u5"}}});

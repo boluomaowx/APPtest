@@ -1,0 +1,71 @@
+﻿$axure.loadCurrentPage({
+  "url":"我的错题.html",
+  "generationDate":new Date(1503559313685.19),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"c6b4894f8ba44afd8c4e1dc2ea219d3c",
+    "type":"Axure:Page",
+    "name":"我的错题",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"a5258ab1c7774b6288a9b71e00a92f55",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":-30,
+              "y":0},
+            "size":{
+              "width":750,
+              "height":1334}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"da2a059a3d204c58b369df6fdf2cdd5f",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":-30,
+                  "y":0},
+                "size":{
+                  "width":750,
+                  "height":1334}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/我的错题/u0.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "a5258ab1c7774b6288a9b71e00a92f55":{
+      "scriptId":"u0"},
+    "da2a059a3d204c58b369df6fdf2cdd5f":{
+      "scriptId":"u1"}}});

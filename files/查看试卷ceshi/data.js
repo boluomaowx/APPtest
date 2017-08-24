@@ -1,0 +1,79 @@
+﻿$axure.loadCurrentPage({
+  "url":"查看试卷ceshi.html",
+  "generationDate":new Date(1503559313642.19),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"af536f2ef48b4496bacc2c07f8bf3aa6",
+    "type":"Axure:Page",
+    "name":"查看试卷ceshi",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"9bbe23cbe42e407580fdd3b0bf98c041",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":375,
+              "height":647},
+            "rotation":"0",
+            "textRotation":"0",
+            "borderWidth":"0",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF0D0D0D},
+            "cornerRadiusTopLeft":"0"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"56b25985627248b6a036b15d72baf1b6",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":375,
+                  "height":647},
+                "rotation":"0",
+                "textRotation":"0",
+                "borderWidth":"0",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF0D0D0D},
+                "cornerRadiusTopLeft":"0"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/查看试卷ceshi/u0.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "9bbe23cbe42e407580fdd3b0bf98c041":{
+      "scriptId":"u0"},
+    "56b25985627248b6a036b15d72baf1b6":{
+      "scriptId":"u1"}}});

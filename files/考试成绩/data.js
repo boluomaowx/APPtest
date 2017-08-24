@@ -1,0 +1,65 @@
+﻿$axure.loadCurrentPage({
+  "url":"考试成绩.html",
+  "generationDate":new Date(1503559313621.19),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"beec774a6b674d2aa01a023e601479e2",
+    "type":"Axure:Page",
+    "name":"考试成绩",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"f98c05b72ba644f3be8f4580b187c100",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":750,
+              "height":1334}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"c516d2f9f0be4a1f91fcab0339d80174",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":750,
+                  "height":1334}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/考试成绩/u0.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "f98c05b72ba644f3be8f4580b187c100":{
+      "scriptId":"u0"},
+    "c516d2f9f0be4a1f91fcab0339d80174":{
+      "scriptId":"u1"}}});
